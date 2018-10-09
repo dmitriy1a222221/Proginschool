@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f59d0186-2178-405c-a4fc-d88c8fe93762" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bookLearnReact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/Body.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/BodyHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/BodyHeading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/ContainApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/ContentInfoBlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/MainContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/SideBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnReact/proplearn/src/component/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnReact/proplearn/src/component/RegistrationForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnReact/proplearn/src/component/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnReact/proplearn/src/component/registrationForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_weather/weather/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/Filter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/FilterList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/Image.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/Range.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/Settings.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/media.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resto.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/.idea/Waxom.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Roboto_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/box_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_img4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_img5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/dribbble_img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/dribbble_img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/dribbble_img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/dribbble_img4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/excellent_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/header_backgraund.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/header_icon_cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/header_icon_cart_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/header_icon_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/header_icon_search_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/icon-play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/left_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/link_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo_footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/logos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/logp_footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/lupa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/lupa_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/partners_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/post_img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/post_img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/post_img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/right_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_hover_icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_hover_icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_hover_icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_hover_icon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_icon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_backgraund.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/video_presentation_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/waxon_img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/waxon_img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/img/waxon_img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/jqwery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/media-qweries.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/config.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick-theme.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/config.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick-theme.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/conf.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/lang.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/textolite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/textolite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/textolite.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/.idea/cursachV0.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/img/plan1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/js/plan1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/plan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursachV0.3/plan1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../float/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../float/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/WC-Mano-Negra-Bta.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/aleo.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/aleo/Aleo-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/aleo/Aleo-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/aleo/Aleo-LightItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/aleo/Aleo-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/aleo/SIL Open Font License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/wc-mano-negra-bta/Creative Commons Attribution-No Derivative Works.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/wc-mano-negra-bta/WCManoNegraBta.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../form/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../form/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/components/Forms.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/components/Forms.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/components/Input.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/components/Input.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/css/font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/bold/Aleo-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/bold/Aleo-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/bold/Aleo-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light-italic/Aleo-LightItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light-italic/Aleo-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light-italic/Aleo-LightItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light/Aleo-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light/Aleo-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light/Aleo-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/regular/Aleo-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/regular/Aleo-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/regular/Aleo-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/wc-mano-negra-bta/WCManoNegraBta.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/wc-mano-negra-bta/WCManoNegraBta.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/font/wc-mano-negra-bta/WCManoNegraBta.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/img/block-3/dish_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/img/block-3/dish_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/img/block-3/dish_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/img/block-3/dish_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/img/resto-billboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resto/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempC/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempC/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempC/.idea/tempC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempC/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempC/background28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempC/background29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempC/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempC/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempC/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wether_react/my-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wether_react/my-app/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wether_react/my-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wether_react/my-app/src/index.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2139386418">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1459395865">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="js" value="7" />
+          <entry key="jshintrc" value="1" />
+          <entry key="json" value="2" />
+          <entry key="sass" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="JSHint" value="1" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="7" />
+          <entry key="Sass" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="3676" />
+          <entry key="js" value="1864" />
+          <entry key="json" value="1" />
+          <entry key="sass" value="5075" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="3676" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1864" />
+          <entry key="Sass" value="5075" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.40840337">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="200">
+                  <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+                  <folding>
+                    <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#4;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/media.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1683">
+                  <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/js/scrolling.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/js/main.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="252">
+                  <caret line="197" column="29" selection-start-line="197" selection-start-column="29" selection-end-line="197" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>thenSay__slides-img</find>
+      <find>thenSay</find>
+      <find>aboutUs__sliders-wrap</find>
+      <find>aboutUs__slide</find>
+      <find>aboutUs__slides</find>
+      <find>aboutUs__slides-wrap</find>
+      <find>aboutUs__slides-img</find>
+      <find>blog__slider-arrow</find>
+      <find>introduction-block</find>
+      <find>logo-name</find>
+      <find>support-form</find>
+      <find>support-description__list</find>
+      <find>logo-wrap</find>
+      <find>nav-menu-list</find>
+      <find>nav-menu</find>
+      <find>header</find>
+      <find>introduction</find>
+      <find>btn-up</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>aboutUs</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/sass/media.sass" />
+        <option value="$PROJECT_DIR$/app/js/scrolling.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/sass/main.sass" />
+        <option value="$PROJECT_DIR$/app/js/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>sass</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>browser-sync</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>scripts</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="sass" />
+            </dependencies>
+            <task-name>css</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="browser-sync" />
+              <dependency value="css" />
+              <dependency value="scripts" />
+            </dependencies>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clean</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>img</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="clean" />
+              <dependency value="img" />
+              <dependency value="sass" />
+              <dependency value="scripts" />
+            </dependencies>
+            <task-name>build</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clear</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="watch" />
+            </dependencies>
+            <task-name>default</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/app/libs/magnific-popup/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-93" />
+    <option name="y" value="-16" />
+    <option name="width" value="1346" />
+    <option name="height" value="685" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zekaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zekaProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Dmitry/Desktop/zekaProject/app/index.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gulp.js.default" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f59d0186-2178-405c-a4fc-d88c8fe93762" name="Default Changelist" comment="" />
+      <created>1537866523733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537866523733</updated>
+      <workItem from="1537866530525" duration="170000" />
+      <workItem from="1537908879750" duration="4761000" />
+      <workItem from="1537940416273" duration="7592000" />
+      <workItem from="1537956800050" duration="18990000" />
+      <workItem from="1538032590020" duration="3344000" />
+      <workItem from="1538082884428" duration="330000" />
+      <workItem from="1538121951423" duration="4459000" />
+      <workItem from="1538133271325" duration="2250000" />
+      <workItem from="1538153900868" duration="3334000" />
+      <workItem from="1538248697835" duration="6403000" />
+      <workItem from="1538477920670" duration="2059000" />
+      <workItem from="1538547159955" duration="5388000" />
+      <workItem from="1538555626465" duration="1258000" />
+      <workItem from="1538566270701" duration="1083000" />
+      <workItem from="1538588208794" duration="1387000" />
+      <workItem from="1538856492422" duration="2373000" />
+      <workItem from="1538859567676" duration="164000" />
+      <workItem from="1538948123066" duration="2016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67361000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6575809" visible="true" weight="0.067708336" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Gulp" order="2" sideWeight="0.3424191" side_tool="true" visible="true" weight="0.067708336" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1669506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.1890971" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6702356" weight="0.114583336" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Gulp" order="2" sideWeight="0.32976446" side_tool="true" weight="0.114583336" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2044293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.1890971" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../project/shopnoActive/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="1295" column="18" lean-forward="true" selection-start-line="410" selection-start-column="8" selection-end-line="1295" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="103" lean-forward="true" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="4" selection-start-line="5" selection-start-column="13" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/libs/magnific-popup/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/shopno/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="786" selection-start-line="579" selection-end-line="786" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/shopno/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="1324" column="61" lean-forward="true" selection-start-line="1324" selection-start-column="61" selection-end-line="1324" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../portfolioSite/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#4;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/media.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/scrolling.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="197" column="29" selection-start-line="197" selection-start-column="29" selection-end-line="197" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

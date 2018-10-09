@@ -1,0 +1,771 @@
+.common-wrapp
+    width: 100%
+
+.common-wrapper__next-child
+    max-width: 1600px
+    margin: 0 auto
+
+.btn-up
+    //display: none
+
+    position: fixed
+    bottom: 30px
+    right: 20px
+    width: 30px
+    height: 30px
+    border: 1px solid #909192
+    border-radius: 4px
+    cursor: pointer
+    &:hover
+        opacity: .9
+
+.btn-up__arrow
+    position: absolute
+    top: 12px
+    left: 12px
+    display: block
+    width: 10px
+    height: 3px
+    background-color: #909192
+    transform: rotate(45deg)
+
+    &:before
+        content: ''
+        display: block
+        width: 10px
+        height: 3px
+        position: absolute
+        top: 4px
+        left: -4px
+        background-color: #909192
+        transform: rotate(90deg)
+
+/*........header..........*/
+.header-wrap
+    background-color: #2a2a2a
+
+.header
+    display: flex
+    justify-content: space-between
+    align-items: center
+    flex-wrap: wrap
+    padding: 5px 10px
+
+.wrap-logo-nav
+    display: flex
+    justify-content: flex-start
+    align-items: center
+    flex-wrap: wrap
+
+.logo-wrap
+    display: flex
+    justify-content: flex-start
+    align-items: center
+    margin-right: 20px
+
+.logo-icon
+    width: 58px
+    height: 50px
+
+.logo-name
+    font: 17px 'Verdana', sans-serif
+    text-transform: uppercase
+    color: #FFFFFF
+    
+.nav-menu
+    position: relative
+    
+.nav__main-menu
+    font: 13px 'Verdana', sans-serif
+    color: #f3f3f3
+    display: flex
+    justify-content: flex-start
+    align-items: center
+    cursor: pointer
+
+    span
+        margin-right: 6px
+
+.triangle
+    margin-top: 2px
+    width: 0
+    height: 0
+    border-style: solid
+    border-width: 4px 4px 0 4px
+    border-color: #007bff transparent transparent transparent
+    transition: transform .2s
+
+.nav-menu-list
+    display: flex
+    visibility: hidden
+    position: absolute
+    top: 30px
+    left: 0
+    background-color: #1e1e1e
+    padding: 10px 0
+    width: 200px
+    border-radius: 2px
+    justify-content: center
+    flex-direction: column
+    transform: translateY(30px)
+    transition: all .3s
+
+    li
+        margin-bottom: 7px
+        width: 100%
+        padding: 5px 10px
+
+        &:hover
+            background-color: #3F3F3F
+
+        a
+            color: #dedede
+            width: 100%
+
+.header-support
+    text-decoration: none
+    padding: 10px 20px
+    background-color: #2a2a2a
+    color: #F3F3F3
+    border: 1px solid #F3F3F3
+    border-radius: 4px
+    transition: opacity .2s
+
+    &:hover
+        opacity: .9
+
+    &:active
+        opacity: .7
+/*.......end..header..........*/
+/*..........main...........*/
+.main
+    width: 100%
+
+/*....introduction.....*/
+.wrap__introduction-block
+    background: url("../img/bg-introduction.png") 10% center no-repeat
+    background-size: cover
+    box-shadow: 0px 4px 6px -2px rgba(0,0,0,0.75)
+
+.introduction-gradient
+    width: 100%
+    height: 100%
+    background: linear-gradient(90deg , rgba(65, 40, 180, .5) -45%, rgba(102, 62, 167, .5) 78%)
+
+.introduction-block
+    padding: 80px 10px
+    display: flex
+    flex-direction: column
+    align-items: center
+    justify-content: center
+
+.introduction-text_large
+    font: 38px 'Verdana', sans-serif
+    color: #FFFFFF
+    font-weight: bold
+    text-shadow: 2px -2px 4px black
+    margin-bottom: 25px
+    text-align: center
+
+.introduction-text_small
+    font: 26px 'Verdana', sans-serif
+    color: #FFFFFF
+    font-weight: bold
+    text-shadow: 2px -2px 4px black
+    text-align: center
+
+/*..end..introduction.....*/
+/*...wrap__main-menu...*/
+.wrap__main-menu
+    margin: 60px 0
+.main-menu
+    display: flex
+    justify-content: flex-start
+    align-items: center
+    padding: 0 10px
+
+.main-menu__text
+    writing-mode:  tb-rl
+    white-space: nowrap
+    font: 18px 'Verdana', sans-serif
+
+.main-menu__list
+    width: 100%
+    display: flex
+    justify-content: space-around
+    align-items: center
+    flex-wrap: wrap
+
+.main-menu__item
+    padding: 5px 10px
+    margin: 15px 6px
+    width: 270px
+    height: 300px
+    background-color: #2A1D61
+    border-radius: 3px
+    box-shadow: 4px 4px 6px -2px rgba(0,0,0,0.75)
+    transition: transform .2s
+
+    &:hover
+        transform: scale(1.1, 1.1)
+
+.main-menu__item-link
+    display: flex
+    flex-direction: column
+    justify-content: flex-start
+    align-items: center
+
+.main-menu__img
+    width: 150px
+    height: 150px
+
+.item-title
+    text-align: center
+    margin: 15px
+    font: 18px 'Verdana', sans-serif
+    color: #FFFFFF
+
+.item-subtitle
+    text-align: center
+    font: 12px 'Verdana', sans-serif
+    color: #BDBDBD
+
+/*..end..wrap__main-menu...*/
+/*....about-us.....*/
+.wrap__about-us
+    padding: 0 0 130px 0
+    background-color: #e5e8eb
+
+.about-us
+    padding: 0 10px
+    display: flex
+    justify-content: flex-start
+    align-items: center
+
+.about-us__text
+    writing-mode:  tb-rl
+    white-space: nowrap
+    font: 18px 'Verdana', sans-serif
+    margin-right: 30px
+
+/*......aboutUs.slider...........*/
+.aboutUs__sliders-wrap
+    display: flex
+
+.wrap-aboutUss
+    background-color: #f9fbfb
+
+.theySays__sub-title
+    margin-bottom: 20px
+
+.aboutUss__sliders-wrap
+    width: 97.435897435897435897435897435897%
+    display: flex
+    justify-content: center
+    align-items: center
+
+.aboutUs__wrapp-slider_1
+    //width: 100%
+    width: 34.210526315789473684210526315789%
+    //max-width: 390px
+    min-width: 250px
+    height: 363px
+    background-color: #2A1D61
+    margin: 120px 20px 0 0
+
+.aboutUs__slider
+    width: 82.051282051282051282051282051282%
+    margin: 0 auto
+    min-width: 250px
+    transform: translateY(-25px)
+
+    .aboutUs__dishes
+        width: 50px
+        display: flex
+        margin: 43px auto 0
+        justify-content: space-between
+
+        .aboutUs-swich
+            width: 10px
+            height: 10px
+            border-radius: 2px
+            background-color: #d0d0d0
+            cursor: pointer
+
+        .active
+            background-color: #2A1D61
+
+.aboutUs__slides-contain
+    box-shadow: 0px 0px 9px 4px
+    overflow: hidden
+    width: 100%
+
+.aboutUs__slides
+    width: 400%
+    display: flex
+    transition: transform .4s
+    transition-timing-function: cubic-bezier(0.42,0,0.58,1)
+
+    .aboutUs__slides-img
+        width: 25%
+        //max-width: 393px
+        //min-width: 250px
+        height: 410px
+
+        &_1
+            background: url("../img/zeka.jpg") center center no-repeat
+            background-size: cover
+
+        &_2
+            background: url("../img/zeka.jpg") center center no-repeat
+            background-size: cover
+
+        &_3
+            background: url("../img/zeka.jpg") center center no-repeat
+            background-size: cover
+
+        &_4
+            background: url("../img/zeka.jpg") center center no-repeat
+            background-size: cover
+
+.aboutUs__wrapp-slider_2
+    width: 58.508771929824561403508771929825%
+    background-color: #402f61
+    padding: 90px 0 70px
+    transform: translateY(15px)
+    min-width: 250px
+    margin-top: 90px
+
+.aboutUs__slider2-overflow
+    width: 75.262368815592203898050974512744%
+    margin: 0 auto
+    overflow: hidden
+
+.aboutUs__slides-wrap
+    display: flex
+    transition: all .6s
+    transition-timing-function: cubic-bezier(0.42,0,0.58,1)
+    .aboutUs__slide
+        display: flex
+        flex-direction: column
+        align-items: center
+        justify-content: flex-start
+
+        .aboutUs__slide__wrap-title
+            width: 100%
+            display: flex
+            justify-content: center
+            align-items: flex-end
+            margin-bottom: 22px
+
+            .item__tile
+                font: 1.25em 'MerriweatherBold', sans-serif
+                color: #1b1b1c
+                text-transform: uppercase
+                margin-right: 10px
+
+            .item__work-position
+                font: 0.9375em 'MerriweatherRegular', sans-serif
+                font-style: italic
+                text-transform: uppercase
+                color: #7f7f7f
+
+        .aboutUs__slide__description
+            font: 1em/27px 'RalewayRegular', sans-serif
+            color: #909192
+            text-align: center
+            margin-bottom: 30px
+
+        .aboutUs__slide__social
+            display: flex
+            width: 100px
+            justify-content: space-between
+            align-items: center
+            transition: opacity .2s
+
+            li
+                &:hover
+                    opacity: .8
+                a
+                    i
+                        font-size: 25px
+
+$primary-color: #b2b2b2
+$hover-color: #25514d
+
+.aboutUs__arrow-wrap
+    position: absolute
+    bottom: -85px
+    right: 0
+    width: 136px
+    display: flex
+    justify-content: space-between
+
+    .aboutUs__arrow
+        width: 53px
+        height: 53px
+        border-radius: 5px
+        background-color: #ffffff
+        cursor: pointer
+        transition: background-color .2s
+
+        &:hover
+            background-color: rgba(43, 34, 97, .5)
+            .theySay__arrow-line
+                background-color: $hover-color
+
+                &:after
+                    background-color: $hover-color
+
+        &_prev
+            position: relative
+            .theySay__arrow-line
+                position: absolute
+                top: 40%
+                left: 40%
+                transition: background-color .2s
+                width: 5px
+                height: 7px
+                background-color: $primary-color
+                transform: skew(-40deg)
+
+                &:after
+                    content: ''
+                    position: absolute
+                    transition: background-color .2s
+                    top: 7px
+                    left: 6px
+                    display: block
+                    width: 5px
+                    height: 7px
+                    background-color: $primary-color
+                    transform: skew(-120deg)
+
+        &_next
+            position: relative
+            .theySay__arrow-line
+                position: absolute
+                top: 40%
+                right: 40%
+                transition: background-color .2s
+                width: 5px
+                height: 7px
+                background-color: $primary-color
+                transform: skew(40deg)
+
+                &:after
+                    content: ''
+                    transition: background-color .2s
+                    position: absolute
+                    top: 7px
+                    right: 6px
+                    display: block
+                    width: 5px
+                    height: 7px
+                    background-color: $primary-color
+                    transform: skew(120deg)
+/*.....end_aboutUss..slider.......*/
+/*..end..about-us.....*/
+/*....blog.....*/
+.wrap__blog
+    padding: 80px 0
+
+.blog
+    display: flex
+    justify-content: flex-start
+    align-items: center
+    padding: 0 10px
+
+.blog-text
+    writing-mode:  tb-rl
+    white-space: nowrap
+    font: 18px 'Verdana', sans-serif
+    margin-right: 30px
+    
+/*....blog slider...*/
+.blog__slider
+    width: 70%
+    margin: 0 auto 40px
+    box-shadow: 0 0 9px 4px
+    position: relative
+
+.blog__overflow
+    width: 100%
+    overflow: hidden
+    
+.blog__wrap-slides
+    display: flex
+    transition: transform .4s
+    transition-timing-function: ease-in-out
+
+    .blog__slide
+        height: 500px
+
+        &_1
+            background: url("../img/blog-img-1.jpg") center center no-repeat
+            background-size: cover
+        &_2
+            background: url("../img/blog-img-2.jpg") center center no-repeat
+            background-size: cover
+        &_3
+            background: url("../img/blog-img-3.jpg") center center no-repeat
+            background-size: cover
+
+.blog__slider-arrow
+    width: 110%
+    position: absolute
+    top: 48%
+    left: -6%
+    display: flex
+    justify-content: space-between
+    align-items: center
+
+.blog__prev-arrow
+    position: relative
+    width: 20px
+    height: 20px
+    cursor: pointer
+
+    .blog__prev-arrow-line
+        position: absolute
+        top: 40%
+        left: 40%
+        transition: background-color .2s
+        width: 5px
+        height: 7px
+        background-color: $primary-color
+        transform: skew(-40deg)
+
+        &:after
+            content: ''
+            position: absolute
+            transition: background-color .2s
+            top: 7px
+            left: 6px
+            display: block
+            width: 5px
+            height: 7px
+            background-color: $primary-color
+            transform: skew(-120deg)
+
+
+.blog__next-arrow
+    position: relative
+    width: 20px
+    height: 20px
+    left: 0
+    cursor: pointer
+    
+    .blog__prev-arrow-line
+        position: absolute
+        top: 40%
+        right: 0
+        transition: background-color .2s
+        width: 5px
+        height: 7px
+        background-color: $primary-color
+        transform: skew(40deg)
+
+        &:after
+            content: ''
+            transition: background-color .2s
+            position: absolute
+            top: 7px
+            right: 6px
+            display: block
+            width: 5px
+            height: 7px
+            background-color: $primary-color
+            transform: skew(120deg)
+
+/*..end..blog slider...*/
+.blog__block-description
+    width: 80%
+    margin: 0 auto
+    
+.blog__description
+    font: 18px 'Verdana', sans-serif
+    color: #2a2a2a
+    text-align: center
+
+/*..end..blog.....*/
+/*....support...*/
+.wrap__support
+    padding: 80px 0
+    background-color: #e5e8eb
+
+.support
+    padding: 0 10px
+    display: flex
+    justify-content: flex-start
+    align-items: center
+
+.support-text
+    writing-mode:  tb-rl
+    white-space: nowrap
+    font: 18px 'Verdana', sans-serif
+    margin-right: 30px
+
+.support__main-content
+    display: flex
+
+.support__main-content-wrap
+    width: 100%
+    display: flex
+    justify-content: center
+    align-items: center
+
+.support-description
+    width: 30%
+    margin-right: 40px
+
+    span
+        font: 16px/25px 'Verdana', sans-serif
+        color: #2a2a2a
+
+
+
+.support-description__list__item
+    span
+        font: 16px/25px 'Verdana', sans-serif
+        color: #2a2a2a
+
+.support__support-link
+    font: 16px/25px 'Verdana', sans-serif
+    color: #4c4c50
+    text-transform: uppercase
+    width: 180px
+    height: 50px
+    background-color: #AEAEAE
+    border-radius: 2px
+    margin-top: 20px
+    display: flex
+    justify-content: center
+    align-items: center
+
+    &:hover
+        opacity: .9
+
+    &:active
+        opacity: .8
+
+/*...form....*/
+.support-form-wrap
+    width: 40%
+
+.support-form-suggestions
+    font: 16px/25px 'Verdana'
+    color: #1b1b1c
+    display: flex
+    justify-content: center
+    text-align: center
+
+.support-form
+    margin-top: 20px
+    width: 100%
+    background-color: #2a1d61
+    padding: 40px 0
+    border-radius: 5px
+    box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.75)
+
+
+    .form
+        display: flex
+        flex-direction: column
+        align-items: center
+
+.form-name
+    width: 70%
+    margin-bottom: 5px
+    padding: 5px 10px
+    border: 2px solid transparent
+    border-radius: 3px
+    font: 13px 'Verdana', sans-serif
+    color: #4c4c50
+    background: #dcdcdc
+    box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.5)
+
+    &::placeholder
+        font: 13px 'Verdana', sans-serif
+        color: #7f7f7f
+
+.form-email
+    width: 70%
+    margin-bottom: 5px
+    padding: 5px 10px
+    border: 2px solid transparent
+    border-radius: 3px
+    font: 13px 'Verdana', sans-serif
+    color: #4c4c50
+    background: #dcdcdc
+    box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.5)
+
+
+    &::placeholder
+        font: 13px 'Verdana', sans-serif
+        color: #7f7f7f
+
+.form-message
+    width: 70%
+    margin-bottom: 5px
+    padding: 5px 10px
+    border: 2px solid transparent
+    border-radius: 3px
+    font: 13px 'Verdana', sans-serif
+    color: #4c4c50
+    background: #dcdcdc
+    resize: none
+    box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.5)
+
+    &::placeholder
+        font: 13px 'Verdana', sans-serif
+        color: #7f7f7f
+
+.form-submit
+    width: 70%
+    margin-bottom: 5px
+    padding: 10px 15px
+    border: none
+    border-radius: 3px
+    background: #AEAEAE
+    cursor: pointer
+    box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.3)
+    font: 13px 'Verdana', sans-serif
+    color: #3F3F3F
+    font-weight: 750
+
+    &:hover
+        opacity: .9
+
+    &:active
+        opacity: .8
+
+/*..end.form....*/
+/*...end...support...*/
+/*...footer....*/
+.wrap-footer
+    background-color: #2A2A2A
+
+.footer
+    padding: 20px 20px 30px
+
+.footer__block-bottom
+    display: flex
+    justify-content: space-between
+    flex-wrap: wrap
+
+    span
+        font: 13px 'Verdana', sans-serif
+        color: #BDBDBD
+        margin-top: 10px
+
+        a
+            font: 13px 'Verdana', sans-serif
+            color: #BDBDBD
+            text-decoration: underline
+            &:hover
+                opacity: .9
+
+
+/*..end.footer....*/
+/*.......end..main...........*/
