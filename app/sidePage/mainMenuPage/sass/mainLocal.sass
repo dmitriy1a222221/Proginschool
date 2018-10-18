@@ -1,0 +1,138 @@
+
+
+.wrapper
+    display: flex
+    flex-direction: column
+
+.wrap__introduction-block_el-book
+    background: url("../sidePage/mainMenuPage/img/elBookImg.png") no-repeat center center
+    background-size: cover
+
+.introduction-gradient_el-book
+    width: 100%
+    height: 100%
+    background: linear-gradient(90deg , rgba(113, 180, 40, 0.5) -45%, rgba(64, 62, 167, 0.5) 78%)
+
+.main-content
+    padding: 100px
+
+.content-item
+    width: 300px
+    border: 1px solid #1b1b1c
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    padding: 20px 10px 40px
+    transition: transform .2s
+
+    &:hover
+        transform: rotateZ(10deg)
+
+.content-item__img
+    width: 150px
+    height: 170px
+
+.content-item__title
+    font: 30px 'Verdana', sans-serif
+    margin-bottom: 20px
+
+.content-item__subtitle
+    font: 14px 'Verdana', sans-serif
+    text-align: center
+
+
+/*.....block info.....*/
+.wrapp-content
+    padding: 30px 10px
+    display: flex
+    justify-content: flex-start
+
+.side-content
+    width: 250px
+    margin-right: 5%
+
+
+.side-content__menu
+    width: 100%
+    border: 1px solid #3F3F3F
+    padding: 15px 10px
+    margin-bottom: 30px
+
+.side-content__menu-title
+    text-align: center
+    font: 16px 'Verdana', sans-serif
+    margin-bottom: 10px
+
+.side-content__menu-list
+    width: 100%
+
+.side-content__menu-listItem
+    a
+        text-decoration: none
+        font: 13px 'Verdana', sans-serif
+
+.side-content__addition
+    width: 100%
+    padding: 15px 10px
+    border: 1px solid #3F3F3F
+
+.side-content__addition-title
+    text-align: center
+    font: 16px 'Verdana', sans-serif
+    margin-bottom: 10px
+
+
+.info-main-content
+    width: 70%
+    border: 1px solid #3F3F3F
+    padding: 20px
+
+.info-main-text
+    font: 15px 'Verdana', sans-serif
+
+.main-content__arrow-wrap
+    width: 100%
+    margin-top: 50px
+    display: flex
+    justify-content: space-around
+
+.main-content__prev-arr
+    cursor: pointer
+    width: 10px
+    height: 2px
+    background-color: #1b1b1c
+    position: relative
+    transform: rotate(45deg)
+
+    &:after
+        content: ''
+        display: block
+        width: 10px
+        height: 2px
+        background-color: #1b1b1c
+        position: absolute
+        top: -4px
+        left: -4px
+        transform: rotate(-90deg)
+
+.main-content__next-arr
+    cursor: pointer
+    width: 10px
+    height: 2px
+    background-color: #1b1b1c
+    position: relative
+    transform: rotate(-45deg)
+
+    &:after
+        content: ''
+        display: block
+        width: 10px
+        height: 2px
+        background-color: #1b1b1c
+        position: absolute
+        top: -4px
+        left: 4px
+        transform: rotate(90deg)
+
+/*.....end_block info.....*/

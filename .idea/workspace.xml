@@ -2,248 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f59d0186-2178-405c-a4fc-d88c8fe93762" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bookLearnReact/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dashboard/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/Body.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/BodyHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/BodyHeading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/ContainApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/ContentInfoBlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/MainContent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dashboard/src/component/SideBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learnReact/proplearn/src/component/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learnReact/proplearn/src/component/RegistrationForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learnReact/proplearn/src/component/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learnReact/proplearn/src/component/registrationForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react_weather/weather/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/Filter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/FilterList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/Image.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/Range.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reactagram/my-app/src/Components/Settings.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sass/media.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Resto.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/.idea/Waxom.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/Montserrat-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Montserrat/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/Roboto_regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/fonts/releway/Raleway-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/box_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_img3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_img4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/counters_img5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/dribbble_img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/dribbble_img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/dribbble_img3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/dribbble_img4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/excellent_img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/header_backgraund.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/header_icon_cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/header_icon_cart_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/header_icon_search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/header_icon_search_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/icon-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/left_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/link.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/link_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo-icon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/logo_footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/logos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/logp_footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/lupa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/lupa_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/marker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/partners_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/post_img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/post_img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/post_img3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/right_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_hover_icon1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_hover_icon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_hover_icon3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_hover_icon4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_icon1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_icon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_icon3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/serv_icon4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_backgraund.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/tab_photo_less_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/video_presentation_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/waxon_img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/waxon_img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/img/waxon_img3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/jqwery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/media-qweries.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/config.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/fonts/slick.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/fonts/slick.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/fonts/slick.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/fonts/slick.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick-theme.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick-theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick/slick.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/config.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/fonts/slick.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/fonts/slick.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/fonts/slick.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/fonts/slick.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick-theme.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick-theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/slick_2/slick.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/conf.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/lang.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/textolite.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/textolite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Waxom/textolite/textolite.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/.idea/cursachV0.3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/img/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/img/plan1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/js/plan1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/plan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursachV0.3/plan1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../float/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../float/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../font/WC-Mano-Negra-Bta.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../font/aleo.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../font/aleo/Aleo-Bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../font/aleo/Aleo-Light.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../font/aleo/Aleo-LightItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../font/aleo/Aleo-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../font/aleo/SIL Open Font License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../font/wc-mano-negra-bta/Creative Commons Attribution-No Derivative Works.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../font/wc-mano-negra-bta/WCManoNegraBta.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form/file.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react/my-app/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react/my-app/src/components/Forms.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/components/Forms.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react/my-app/src/components/Input.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/components/Input.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react/my-app/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/css/font.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/bold/Aleo-Bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/bold/Aleo-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/bold/Aleo-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light-italic/Aleo-LightItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light-italic/Aleo-LightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light-italic/Aleo-LightItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light/Aleo-Light.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light/Aleo-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/light/Aleo-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/regular/Aleo-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/regular/Aleo-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/aleo/regular/Aleo-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/wc-mano-negra-bta/WCManoNegraBta.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/wc-mano-negra-bta/WCManoNegraBta.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/font/wc-mano-negra-bta/WCManoNegraBta.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/img/block-3/dish_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/img/block-3/dish_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/img/block-3/dish_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/img/block-3/dish_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/img/resto-billboard.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resto/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tempC/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tempC/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tempC/.idea/tempC.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tempC/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tempC/background28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tempC/background29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tempC/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tempC/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tempC/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wether_react/my-app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wether_react/my-app/src/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wether_react/my-app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wether_react/my-app/src/index.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sidePage/infoPage/elBooksInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sidePage/infoPage/interactiveDigestInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sidePage/infoPage/onlineCourseInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sidePage/infoPage/programAndModuleInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sidePage/mainMenuPage/elBooks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sidePage/mainMenuPage/interactiveDigest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sidePage/mainMenuPage/onlineCourse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sidePage/mainMenuPage/programAndModule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sidePage/mainMenuPage/sass/mainLocal.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/main.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -277,7 +49,7 @@
     <session id="1459395865">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.25" value="2" />
@@ -285,66 +57,74 @@
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.34" value="2" />
-          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="3" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="2" />
           <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="3" />
-          <entry key="js" value="7" />
+          <entry key="css" value="4" />
+          <entry key="html" value="24" />
+          <entry key="js" value="10" />
           <entry key="jshintrc" value="1" />
-          <entry key="json" value="2" />
-          <entry key="sass" value="5" />
+          <entry key="json" value="3" />
+          <entry key="sass" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="24" />
           <entry key="JSHint" value="1" />
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="7" />
-          <entry key="Sass" value="5" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="10" />
+          <entry key="Sass" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="3676" />
-          <entry key="js" value="1864" />
+          <entry key="css" value="19" />
+          <entry key="html" value="4578" />
+          <entry key="js" value="1997" />
           <entry key="json" value="1" />
-          <entry key="sass" value="5075" />
+          <entry key="sass" value="6109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="3676" />
+          <entry key="CSS" value="19" />
+          <entry key="HTML" value="4578" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="1864" />
-          <entry key="Sass" value="5075" />
+          <entry key="JavaScript" value="1997" />
+          <entry key="Sass" value="6109" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.40840337">
+    <splitter split-orientation="horizontal" split-proportion="0.35543767">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="200">
-                  <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+                <state relative-caret-position="4">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
                   <folding>
-                    <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#article#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#article#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#article#4;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -354,11 +134,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/sass/media.sass">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+                <state relative-caret-position="-13">
+                  <caret line="112" selection-start-line="112" selection-end-line="112" />
                 </state>
               </provider>
             </entry>
@@ -368,10 +148,18 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+            <entry file="file://$PROJECT_DIR$/app/sidePage/mainMenuPage/elBooks.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1683">
-                  <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+                <state relative-caret-position="323">
+                  <caret line="82" column="7" lean-forward="true" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+                  <folding>
+                    <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -385,11 +173,57 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="252">
-                  <caret line="197" column="29" selection-start-line="197" selection-start-column="29" selection-end-line="197" selection-end-column="29" />
+                <state relative-caret-position="45">
+                  <caret line="184" selection-start-line="184" selection-end-line="185" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gulpfile.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="55" column="88" selection-start-line="55" selection-start-column="88" selection-end-line="55" selection-end-column="88" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/css/mainLocal.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-325">
+                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sidePage/infoPage/elBooksInfo.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="235">
+                  <caret line="262" column="50" selection-start-line="262" selection-start-column="28" selection-end-line="262" selection-end-column="50" />
+                  <folding>
+                    <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#span#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/sidePage/mainMenuPage/sass/mainLocal.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="284">
+                  <caret line="116" column="33" lean-forward="true" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
                 </state>
               </provider>
             </entry>
@@ -397,6 +231,14 @@
         </leaf>
       </split-second>
     </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -416,15 +258,16 @@
       <find>nav-menu-list</find>
       <find>nav-menu</find>
       <find>header</find>
-      <find>introduction</find>
       <find>btn-up</find>
+      <find>introduction</find>
+      <find>wrapp-content</find>
     </findStrings>
     <replaceStrings>
       <replace>aboutUs</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -432,9 +275,22 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app/sass/media.sass" />
         <option value="$PROJECT_DIR$/app/js/scrolling.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/sass/main.sass" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
+        <option value="$PROJECT_DIR$/app/sidePage/mainMenuPage/interactiveDirectories.html" />
+        <option value="$PROJECT_DIR$/app/sidePage/infoPage/interactiveDigestInfo.html" />
+        <option value="$PROJECT_DIR$/app/sidePage/infoPage/onlineCourseInfo.html" />
+        <option value="$PROJECT_DIR$/app/sidePage/mainMenuPage/programAndModuleInfo.html" />
+        <option value="$PROJECT_DIR$/app/sidePage/mainMenuPage/css/mainLocal.css" />
+        <option value="$PROJECT_DIR$/app/sass/main.sass" />
+        <option value="$PROJECT_DIR$/app/css/mainLocal.css" />
+        <option value="$PROJECT_DIR$/app/sidePage/mainMenuPage/elBooks.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/sidePage/mainMenuPage/interactiveDigest.html" />
+        <option value="$PROJECT_DIR$/app/sidePage/mainMenuPage/onlineCourse.html" />
+        <option value="$PROJECT_DIR$/app/sidePage/mainMenuPage/programAndModule.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/sidePage/infoPage/elBooksInfo.html" />
+        <option value="$PROJECT_DIR$/app/sidePage/mainMenuPage/sass/mainLocal.sass" />
       </list>
     </option>
   </component>
@@ -521,6 +377,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -528,21 +385,64 @@
               <item name="zekaProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="zekaProject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zekaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zekaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zekaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zekaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zekaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zekaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zekaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zekaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sidePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zekaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zekaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sidePage" type="462c0819:PsiDirectoryNode" />
+              <item name="infoPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zekaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zekaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sidePage" type="462c0819:PsiDirectoryNode" />
+              <item name="mainMenuPage" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Dmitry/Desktop/zekaProject/app/index.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmitry\Desktop\zekaProject\app\sidePage\infoPage" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -611,23 +511,32 @@
       <workItem from="1538856492422" duration="2373000" />
       <workItem from="1538859567676" duration="164000" />
       <workItem from="1538948123066" duration="2016000" />
+      <workItem from="1539279958236" duration="161000" />
+      <workItem from="1539516294505" duration="2555000" />
+      <workItem from="1539520013340" duration="318000" />
+      <workItem from="1539530008417" duration="127000" />
+      <workItem from="1539668187964" duration="477000" />
+      <workItem from="1539673355050" duration="1758000" />
+      <workItem from="1539692389027" duration="484000" />
+      <workItem from="1539854751958" duration="98000" />
+      <workItem from="1539878178851" duration="12533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67361000" />
+    <option name="totallyTimeSpent" value="85872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6575809" visible="true" weight="0.067708336" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.64621675" weight="0.15848215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Gulp" order="2" sideWeight="0.3424191" side_tool="true" visible="true" weight="0.067708336" />
-      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Gulp" order="2" sideWeight="0.35378322" side_tool="true" weight="0.20684524" />
+      <window_info id="npm" order="3" sideWeight="0.35044643" side_tool="true" weight="0.10342262" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1669506" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14480409" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -635,20 +544,20 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.1890971" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26746166" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6702356" weight="0.114583336" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.64621675" visible="true" weight="0.15848215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Gulp" order="2" sideWeight="0.32976446" side_tool="true" weight="0.114583336" />
-      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Gulp" order="2" sideWeight="0.35378322" side_tool="true" weight="0.20684524" />
+      <window_info id="npm" order="3" sideWeight="0.35044643" side_tool="true" weight="0.10342262" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2044293" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14480409" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -656,7 +565,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.1890971" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26746166" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -673,20 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
           <caret line="1295" column="18" lean-forward="true" selection-start-line="410" selection-start-column="8" selection-end-line="1295" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="103" lean-forward="true" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="4" selection-start-line="5" selection-start-column="13" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -710,33 +605,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../portfolioSite/js/main.js" />
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#article#4;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/media.sass">
+    <entry file="file://$PROJECT_DIR$/app/sidePage/infoPage/onlineCourseInfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+    <entry file="file://$PROJECT_DIR$/app/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+        <state relative-caret-position="45">
+          <caret line="184" selection-start-line="184" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sidePage/mainMenuPage/css/mainLocal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -747,10 +640,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main.js">
+    <entry file="file://$PROJECT_DIR$/app/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/media.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="197" column="29" selection-start-line="197" selection-start-column="29" selection-end-line="197" selection-end-column="29" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sidePage/infoPage/programAndModuleInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sidePage/infoPage/interactiveDigestInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sidePage/mainMenuPage/interactiveDigest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sidePage/mainMenuPage/onlineCourse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sidePage/mainMenuPage/programAndModule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#4;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="55" column="88" selection-start-line="55" selection-start-column="88" selection-end-line="55" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sidePage/mainMenuPage/elBooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="82" column="7" lean-forward="true" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/mainLocal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-325">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sidePage/infoPage/elBooksInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="262" column="50" selection-start-line="262" selection-start-column="28" selection-end-line="262" selection-end-column="50" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#span#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/portfolioSite/js/changeLang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sidePage/mainMenuPage/sass/mainLocal.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="116" column="33" lean-forward="true" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
         </state>
       </provider>
     </entry>
